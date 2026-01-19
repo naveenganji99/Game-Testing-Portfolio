@@ -2,14 +2,16 @@
 
 ## 🎮 Overview
 This project represents my manual game testing work on **Rocket League PC**.  
-The focus of this project was to validate core gameplay flow, settings behavior,
-matchmaking, basic stability, and network handling to ensure a smooth and reliable player experience.
+
+The focus of this project was to validate core gameplay flow, settings behavior,  
+matchmaking, basic stability, and network handling to ensure a smooth  
+and reliable player experience.
 
 ***
 
 ## 💡 Objective
-The objective of this project was to verify that critical game features function as expected under 
-normal and edge case scenarios.
+The objective of this project was to verify that critical game features function  
+as expected under normal and edge case scenarios.
 
 ***
 
@@ -69,8 +71,7 @@ A detailed bug report PDF is provided in the BugReports folder
 ## 📄 Test Artifacts
 * Test Plan created and managed using TestRail  
 * Test Suites organized by module for traceability  
-* Detailed Test Cases with steps, expected results, and priorities  
-* Test Run results exported from TestRail  
+* Detailed Test Cases with steps, expected results, and priorities   
 * Bug Report documents and supporting screenshots
 
 ***
@@ -79,13 +80,15 @@ A detailed bug report PDF is provided in the BugReports folder
 * TestRail for test management  
 * PC Windows for real device testing  
 * Epic Games Launcher for game access  
-* PDF files for documentation and bug reports
 
 ***
 
 ## 💬 Summary
 This project demonstrates practical manual testing skills for PC games.  
-It shows the ability to design clear test cases, execute tests in TestRail, document findings, and report defects with reproducible steps.  
-This work reflects a focus on player experience and on delivering high quality through structured, realistic testing.
+It shows the ability to design clear test cases, execute tests in TestRail,  
+document findings, and report defects with reproducible steps.  
+
+This work reflects a focus on player experience and on delivering high quality  
+through structured, realistic testing.
 
 ***
