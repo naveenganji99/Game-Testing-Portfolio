@@ -2,12 +2,14 @@
 
 ## 🎮 Overview
 This project represents my manual game testing work on **Rocket League PC**.  
-The focus of this project was to validate core gameplay flow, settings behavior, matchmaking, basic stability, and network handling to ensure a smooth and reliable player experience.
+The focus of this project was to validate core gameplay flow, settings behavior, 
+matchmaking, basic stability, and network handling to ensure a smooth and reliable player experience.
 
 ***
 
 ## 💡 Objective
-The objective of this project was to verify that critical game features function as expected under normal and edge case scenarios.
+The objective of this project was to verify that critical game features function as expected under 
+normal and edge case scenarios.
 
 ***
 
