@@ -19,7 +19,7 @@ rewards system, player progression, and character management.
 Created test plans, test cases, test executions, and reports using Xray integrated with Jira.  
 Tested app behavior during background, resume, restart, and network interruption scenarios.  
 
-### 1. Rocket League (PC)  
+### 2. Rocket League (PC)  
 **Tools Used:** TestRail  
 
 **Description:**  
