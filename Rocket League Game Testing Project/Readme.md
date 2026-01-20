@@ -89,6 +89,6 @@ It shows the ability to design clear test cases, execute tests in TestRail,
 document findings, and report defects with reproducible steps.  
 
 This work reflects a focus on player experience and on delivering high quality  
-through structured, realistic testing.
+through structured, realistic testing
 
 ***
