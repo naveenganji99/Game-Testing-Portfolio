@@ -44,7 +44,7 @@ The testing scope included manual functional and usability testing of:
 ## ✅ Test Execution
 * Total Test Cases: 27  
 * Test Case Types: Functional, Usability, Negative, Stability  
-* Platform: PC  
+* Platform: Windows    
 * Launcher: Epic Games Launcher  
 * Input Method: Keyboard  
 * Network: Wi Fi
