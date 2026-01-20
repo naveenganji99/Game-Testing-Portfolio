@@ -17,7 +17,19 @@ Conducted manual testing focused on onboarding, tutorial flow, matchmaking,
 rewards system, player progression, and character management.
 
 Created test plans, test cases, test executions, and reports using Xray integrated with Jira.  
-Tested app behavior during background, resume, restart, and network interruption scenarios.
+Tested app behavior during background, resume, restart, and network interruption scenarios.  
+
+### 1. Rocket League (PC)  
+**Tools Used:** TestRail  
+
+**Description:**  
+Conducted manual testing focused on main menu navigation, casual matchmaking,  
+in game controls using keyboard, settings configuration, key bindings, and scoreboard behavior.  
+
+Created test plans, test suites, test cases, and test run results using TestRail.  
+Tested game behavior during minimize, resume, restart, and network disconnect scenarios.  
+
+**Bug Tracked:** Duplicate key binding allowed for forward and backward movement causing player movement failure  
 
 ---
 
